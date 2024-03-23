@@ -1,7 +1,7 @@
 {
   
   "name": "guessing-game-arshah8",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "A number guessing game between a computer and a user.",
   "main": "index.js",
   "type": "module",
